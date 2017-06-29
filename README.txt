@@ -1,0 +1,1 @@
+This is the HTML assignment to design a myinfo page having my information about the semester marks and Name.
